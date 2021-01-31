@@ -1,3 +1,5 @@
+<?php
+
 class SmartMessage
 {
     const unexpected_error = "216unexpected_error";
